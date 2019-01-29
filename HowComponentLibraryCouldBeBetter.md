@@ -50,6 +50,15 @@
   - give Developers the abilty to "extend" CL **ONLY IF NEEDED**.
     - this is necessary in the **RARE** case the styles are off because of parent styling or browser styling or some other **RARE** case that the developer needs to change something.
       This is to remove the "I'll just build it myself" mentallity.
+  - Change imports to be more intuitive
+    - should be
+    ```javascript
+    import Button from 'componentLibrary/Button';
+    ```
+    - not
+    ```javascript
+    import Button from 'componentLibrary/lib/buttons/Button';
+    ```
 - Start moving to CSS-modules, so css versioning won't have an affect across different teams.
 - Simplify Code Base.
 
