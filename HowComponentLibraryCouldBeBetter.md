@@ -57,7 +57,7 @@
   - Developer Experience should be enjoyable and learning curve should be low.
   - Increase documentation so other devs can get up and running fast and contribute more to CL.
     - This means higher quality and quantity of components available from CL.
-    - A true design system, that people can understand and have a greater abilty to use, because we all built it as a community/business/\***\*team\*\***
+    - A true design system, that people can understand and have a greater abilty to use, because we all built it as a community/business/**team**
   - Explore moving to TypeScript
 
     - Better editor tooling
