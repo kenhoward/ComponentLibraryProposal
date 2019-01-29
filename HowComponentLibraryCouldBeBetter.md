@@ -3,7 +3,7 @@
 ## Purpose:
 
 - Pre-agreed that both designers and developers use Component Library.
-- No Designer/Developer should spend the time creating a their own "Button".
+- No Designer/Developer should spend the time creating their own "Button".
   - More time for Developer/Designer to spend on more important/difficult tasks.
 - One source of truth for uniformity sitewide.
 - Better/easier experience as a Developer/Designer
